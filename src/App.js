@@ -14,7 +14,7 @@ function App() {
   }, []);
   return (
     <main>
-      <h1>WEB25 is the best!</h1>
+      <h1>WEB25 is the best! 🔥</h1>
       <h2>
         Deployed with{' '}
         <a
